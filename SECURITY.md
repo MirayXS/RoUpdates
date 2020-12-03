@@ -7,7 +7,7 @@ currently being supported with security updates.
 
 **Python 3.5.3 or higher is required**
 
-Minimum Python Versions: Python 3.5.3, Python 3.5.5, Python 3.5.5+
+Minimum Python Versions: Python 3.5.3 (3.5.3+), Python 3.5.5 (3.5.5+)
 | Release version | Release date  | Download | Supported |
 | --------------- | ------------- | -------- | --------- |
 | Python 3.5.3    | Jan. 17, 2017 | [Python 3.5.3 Download](https://www.python.org/downloads/release/python-353) | :white_check_mark: |
