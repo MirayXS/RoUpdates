@@ -16,7 +16,8 @@
         "content",
         "doc",
         "maintenance",
-        "projectManagement"
+        "projectManagement",
+        "security"
       ]
     }
   ],
