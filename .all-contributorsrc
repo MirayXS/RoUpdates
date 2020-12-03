@@ -15,7 +15,8 @@
         "code",
         "content",
         "doc",
-        "maintenance"
+        "maintenance",
+        "projectManagement"
       ]
     }
   ],
