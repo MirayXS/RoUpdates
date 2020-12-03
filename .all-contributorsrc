@@ -17,7 +17,12 @@
         "doc",
         "maintenance",
         "projectManagement",
-        "security"
+        "security",
+        "tool",
+        "test",
+        "tutorial",
+        "talk",
+        "userTesting"
       ]
     }
   ],
