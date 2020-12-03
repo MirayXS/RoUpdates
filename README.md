@@ -11,3 +11,7 @@
 ###### Inspired by: https://github.com/Molodejka/DiscordBotRobloxVersionNotify
 <hr>
 
+<img align="center" src="https://discord.c99.nl/widget/theme-1/325605285731500033.png" />
+<img align="center" src="https://discord.c99.nl/widget/theme-1/772156814393212928.png" />
+  
+<hr>
