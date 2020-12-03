@@ -8,5 +8,6 @@
 
 ![Discord Bots](https://top.gg/api/widget/lib/512227974893010954.svg?noavatar=true) ![Discord Bots](https://top.gg/api/widget/owner/720254825815736410.svg?noavatar=true)
 
+###### Inspired by: https://github.com/Molodejka/DiscordBotRobloxVersionNotify
 <hr>
 
