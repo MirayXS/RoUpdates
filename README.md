@@ -9,9 +9,11 @@
 ![Discord Bots](https://top.gg/api/widget/lib/512227974893010954.svg?noavatar=true) ![Discord Bots](https://top.gg/api/widget/owner/720254825815736410.svg?noavatar=true)
 
 ###### Inspired by: https://github.com/Molodejka/DiscordBotRobloxVersionNotify
+<div align="center">
 <hr>
 
 <img align="center" src="https://discord.c99.nl/widget/theme-1/325605285731500033.png" />
 <img align="center" src="https://discord.c99.nl/widget/theme-1/772156814393212928.png" />
   
 <hr>
+</div>
