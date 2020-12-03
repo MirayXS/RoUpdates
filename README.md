@@ -2,10 +2,13 @@
 
 # RoUpdates
 
-[![](https://discordapp.com/api/guilds/781226487084089405/embed.png?style=banner3)](https://discord.gg/mfZA6W4wqF)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-9C84EF.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+[![](https://discordapp.com/api/guilds/781226487084089405/embed.png?style=banner3)](https://discord.gg/mfZA6W4wqF)
 
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?logo=github&style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
 
@@ -89,6 +92,8 @@ RoUpdates requires Python 3.9.0  or greater. If you need Python 3.9.0+, you can 
     "bot_token"            : String. The bot token that is used to log in to your bot.
     "channelId"            : String. Default "000000000000000000". The Discord Channel ID to POST.
 ```
+
+<hr>
 
 ## Contributors ✨
 
