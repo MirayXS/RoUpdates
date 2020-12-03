@@ -8,6 +8,9 @@
 
 ![Discord Bots](https://top.gg/api/widget/lib/512227974893010954.svg?noavatar=true) ![Discord Bots](https://top.gg/api/widget/owner/720254825815736410.svg?noavatar=true)
 
+- Main Discord: [@XxMirayxX21#3561](https://discord.com/users/325605285731500033)
+- Alternative Discord: [@0xK3ITH#8833](https://discord.com/users/772156814393212928)
+
 ###### Inspired by: https://github.com/Molodejka/DiscordBotRobloxVersionNotify
 <div align="center">
 <hr>
