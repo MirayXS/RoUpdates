@@ -2,12 +2,6 @@
 
 # RoUpdates
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-9C84EF.svg?style=flat-square)](#contributors-)
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 [![](https://discordapp.com/api/guilds/781226487084089405/embed.png?style=banner3)](https://discord.gg/mfZA6W4wqF)
 
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?logo=github&style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
@@ -18,12 +12,18 @@
 - Alternative Discord: [@0xK3ITH#8833](https://discord.com/users/772156814393212928)
 
 ###### Inspired by: https://github.com/Molodejka/DiscordBotRobloxVersionNotify
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-9C84EF.svg?style=flat-square)](#contributors-)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 <div align="center">
 <hr>
 
 <img align="center" src="https://discord.c99.nl/widget/theme-1/325605285731500033.png" />
 <img align="center" src="https://discord.c99.nl/widget/theme-1/772156814393212928.png" />
-  
+
 <hr>
 </div>
 
