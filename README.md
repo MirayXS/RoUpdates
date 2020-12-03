@@ -99,7 +99,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://mirayxs.github.io"><img src="https://avatars2.githubusercontent.com/u/55494819?v=4" width="100px;" alt=""/><br /><sub><b>Miray</b></sub></a><br /><a href="https://github.com/MirayXS/RoUpdates/issues?q=author%3AMirayXS" title="Bug reports">🐛</a> <a href="https://github.com/MirayXS/RoUpdates/commits?author=MirayXS" title="Code">💻</a> <a href="#content-MirayXS" title="Content">🖋</a> <a href="https://github.com/MirayXS/RoUpdates/commits?author=MirayXS" title="Documentation">📖</a> <a href="#maintenance-MirayXS" title="Maintenance">🚧</a> <a href="#projectManagement-MirayXS" title="Project Management">📆</a></td>
+    <td align="center"><a href="http://mirayxs.github.io"><img src="https://avatars2.githubusercontent.com/u/55494819?v=4" width="100px;" alt=""/><br /><sub><b>Miray</b></sub></a><br /><a href="https://github.com/MirayXS/RoUpdates/issues?q=author%3AMirayXS" title="Bug reports">🐛</a> <a href="https://github.com/MirayXS/RoUpdates/commits?author=MirayXS" title="Code">💻</a> <a href="#content-MirayXS" title="Content">🖋</a> <a href="https://github.com/MirayXS/RoUpdates/commits?author=MirayXS" title="Documentation">📖</a> <a href="#maintenance-MirayXS" title="Maintenance">🚧</a> <a href="#projectManagement-MirayXS" title="Project Management">📆</a> <a href="#security-MirayXS" title="Security">🛡️</a></td>
   </tr>
 </table>
 
