@@ -20,3 +20,69 @@
   
 <hr>
 </div>
+
+<p align="center">
+<img src="https://i.imgur.com/MHFEVV5.png">
+</p>
+
+<hr>
+
+# What is this?
+RoUpdates is an **open source Discord Bot project**,
+
+An automated **Roblox discord bot made with PYTHON using the framework library Discord.py**,
+
+that checks and tracks for new Roblox versions.
+
+The official Discord Bot is a PRIVATE Part of the " Roblox Version Status " Discord Community Server.
+
+<br>
+
+RoUpdates is The **Roblox Client Tracker** Open-Source Discord Bot Project.
+
+RoUpdates aims to provide **new** and **old** Roblox Client Versions.
+
+> **NEW** Version = **newData**
+
+> **OLD** Version = **oldData**
+
+RoUpdates notifies about Roblox Client Updates.
+
+The information that is mined and presented by The *Roblox Client Tracker*  is retrieved using publicly disclosed end-points.
+
+<hr>
+
+# Comparison Links
+Use these links to compare versions of Roblox's client.
+
+* Compare [OldData](https://pastebin.com/raw/zKYiWUkg)
+* Compare [NewData](https://setup.roblox.com/version)
+
+<hr>
+
+# Selfhosting  
+
+Self-hosting is recommended for advanced users only who are experienced with **Python** and **Discord.py**.
+
+RoUpdates requires Python 3.9.0  or greater. If you need Python 3.9.0+, you can get it from here: [Python 3.9.0 Download](https://www.python.org/downloads/release/python-390/ "Python 3.9.0 Download").
+
+1. To get RoUpdates ready to run locally, the first step is to clone this repository onto the machine you wish to run it on.
+2. Install the required dependencies.
+
+    ```
+    pip install -U -r requirements.txt
+    ```
+3. Edit the file `src/config/config.json`.
+
+4. Start the bot from the project folder: `python ./src/main.py`
+
+<hr>
+
+### client.json documentation
+
+```
+    "bot_name"             : String. The bot username.
+    "bot_prefix"           : String. The bot command prefix.
+    "bot_token"            : String. The bot token that is used to log in to your bot.
+    "channelId"            : String. Default "000000000000000000". The Discord Channel ID to POST.
+```
