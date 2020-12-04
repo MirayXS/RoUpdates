@@ -4,7 +4,7 @@
 
 [![](https://discordapp.com/api/guilds/781226487084089405/embed.png?style=banner3)](https://discord.gg/mfZA6W4wqF)
 
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?logo=github&style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0) [![Supported Python Versions](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue?style=for-the-badge)](https://github.com/MirayXS/RoUpdates/blob/main/SECURITY.md)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?logo=github&style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0) [![Supported Python Versions](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue?style=for-the-badge&logoColor=white&logo=python)](https://github.com/MirayXS/RoUpdates/blob/main/SECURITY.md)
 
 ![Discord Bots](https://top.gg/api/widget/lib/512227974893010954.svg?noavatar=true) ![Discord Bots](https://top.gg/api/widget/owner/720254825815736410.svg?noavatar=true)
 
@@ -77,7 +77,7 @@ RoUpdates requires Python 3.9.0  or greater. If you need Python 3.9.0+, you can 
 
 >>> **Recommended Python Versions: Python 3.7.0 (3.7.0+), Python 3.8.0 (3.8.0+), Python 3.9.0 (3.9.0+)**
 
->>>> [![Supported Python Versions](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue?style=for-the-badge)](https://github.com/MirayXS/RoUpdates/blob/main/SECURITY.md)
+>>>> [![Supported Python Versions](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue?style=for-the-badge&logoColor=white&logo=python)](https://github.com/MirayXS/RoUpdates/blob/main/SECURITY.md)
 
 1. To get RoUpdates ready to run locally, the first step is to clone this repository onto the machine you wish to run it on.
 2. Install the required dependencies.
