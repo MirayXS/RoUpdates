@@ -1,6 +1,6 @@
 # Security Policy
 
-<img src="https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue">
+[![Supported Python Versions](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue?style=for-the-badge)](https://github.com/MirayXS/RoUpdates/blob/main/SECURITY.md)
 
 ## Supported Python Versions
 
