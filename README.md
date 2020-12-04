@@ -2,7 +2,8 @@
 
 # RoUpdates
 
-[![](https://discordapp.com/api/guilds/781226487084089405/embed.png?style=banner3)](https://discord.gg/mfZA6W4wqF)
+[![](https://discordapp.com/api/guilds/781226487084089405/embed.png?style=banner3)](https://discord.gg/mfZA6W4wqF) 
+[![](https://discordapp.com/api/guilds/735182703871262820/embed.png?style=banner3)](https://discord.gg/CkdjnCR)
 
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?logo=github&style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0) [![Supported Python Versions](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue?style=for-the-badge&logoColor=white&logo=python)](https://github.com/MirayXS/RoUpdates/blob/main/SECURITY.md)
 
