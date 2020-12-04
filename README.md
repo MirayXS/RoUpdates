@@ -56,6 +56,8 @@ RoUpdates notifies about Roblox Client Updates.
 
 The information that is mined and presented by The *Roblox Client Tracker*  is retrieved using publicly disclosed end-points.
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=RoUpdates)](https://github.com/anuraghazra/RoUpdates)
+
 <hr>
 
 # Comparison Links
