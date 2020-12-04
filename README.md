@@ -4,9 +4,7 @@
 
 [![](https://discordapp.com/api/guilds/781226487084089405/embed.png?style=banner3)](https://discord.gg/mfZA6W4wqF)
 
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?logo=github&style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?logo=github&style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-9C84EF.svg?style=for-the-badge)](#contributors-)
 
