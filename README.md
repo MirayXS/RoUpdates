@@ -123,7 +123,7 @@ RoUpdates requires Python 3.9.0  or greater. If you need Python 3.9.0+, you can 
 * <img src="https://litecoin.org//img/litecoin.png" width="20" height="20">  Litecoin:     ```LMSC8eksqMcP4kNf7tnKj3bPqgUmxscR1w```
 * <img src="https://tinyurl.com/yym8xckp" width="20" height="20">            Bitcoin Cash: ```bitcoincash:qzxqfcm6lem5lgemqyhgxgyh7ev32fge6q7y8pxcye```
 
-* <img src="https://tinyurl.com/yymtgsf9" width="20" height="20">            Discord Nitro:
+* <img src="https://tinyurl.com/yymtgsf9" width="25" height="25">            Discord Nitro
 > Main Discord: [@XxMirayxX21#3561](https://discord.com/users/325605285731500033)
 
 <hr>
